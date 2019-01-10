@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/HonNhan.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/DanToc.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/Tinh.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/UuTienBT.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/gui/Employee.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/SucKhoe.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/bll/QLNhanVienBLL.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/gui/EmployeeList.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/QuocTich.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dal/ConnectionDB.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dal/QLNhanVienDAL.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/NhanVien.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/Phuong.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/GioiTinh.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/ThanhPho.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/NhomMau.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/UuTienGD.java</file>
+            <file>file:/D:/BT%20Java/java/InventoryManagement/src/ims/dto/TonGiao.java</file>
+        </group>
+    </open-files>
+</project-private>
